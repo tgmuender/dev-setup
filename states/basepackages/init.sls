@@ -1,0 +1,22 @@
+common_packages:
+  pkg.installed:
+    - pkgs:
+        - vlc
+        - skanlite
+        - thunderbird
+        - firefox
+        - filezilla
+        - tmux
+        - dos2unix
+        - kompare
+        - qpdf
+        - git
+        - yakuake
+        - wireshark
+        - tshark
+        - traceroute
+        - jq
+        - pcregrep
+        - rsync
+        - pdftk
+        - pwgen
