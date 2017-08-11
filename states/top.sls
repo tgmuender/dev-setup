@@ -1,3 +1,4 @@
 base:
     '*':
-        - basepackages
+        - common.layout
+        - common.packages
